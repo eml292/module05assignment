@@ -9,4 +9,4 @@ game that goes pew pew
 Artistic license 2.0
 
 
-#[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+#[Contribution guidelines for this project](/CONTRIBUTING.md)
