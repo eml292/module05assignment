@@ -4,6 +4,8 @@
 
 game that goes pew pew
 
+Game that also goes boom boom ~Colin
+
 #Licensing:
 
 Artistic license 2.0
